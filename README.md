@@ -48,7 +48,7 @@
     <div class="container">
         <h1>Will You Be My Girlfriend?</h1>
         <p>My [Sade],</p>
-        <p>I do not know how i feel but i know yo are always on my mind. You've brought so much joy and happiness into my life, and I cherish every moment we spend together. I've come to realize that you mean more to me.</p>
+        <p>I do not know how i feel but i know you are always on my mind. You've brought so much joy and happiness into my life, and I cherish every moment we spend together. I've come to realize that you mean more to me.</p>
         <p>I guess you have been waiting long for this day to come..and I believe we have something truly special.</p>
         <p>So, [Sade baby], would you do me the honor of being your girlfriend?</p>
         <button onclick="sendResponse('yes')">Yes, I'd love to!</button>

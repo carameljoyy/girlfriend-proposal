@@ -47,10 +47,10 @@
 <body>
     <div class="container">
         <h1>Will You Be My Girlfriend?</h1>
-        <p>Dear [Her Name],</p>
-        <p>Words cannot fully express the depth of my feelings for you. You've brought so much joy and happiness into my life, and I cherish every moment we spend together. I've come to realize that you mean more to me than anyone else ever has.</p>
-        <p>I want to take our relationship to the next level and embark on this journey together as a couple. I care about you deeply, and I believe we have something truly special.</p>
-        <p>So, [Her Name], would you do me the honor of being my girlfriend?</p>
+        <p>My [Sade],</p>
+        <p>I do not know how i feel but i know yo are always on my mind. You've brought so much joy and happiness into my life, and I cherish every moment we spend together. I've come to realize that you mean more to me.</p>
+        <p>I guess you have been waiting long for this day to come..and I believe we have something truly special.</p>
+        <p>So, [Sade baby], would you do me the honor of being your girlfriend?</p>
         <button onclick="sendResponse('yes')">Yes, I'd love to!</button>
         <button onclick="sendResponse('no')">I'm sorry, I can't</button>
     </div>
@@ -58,9 +58,9 @@
     <script>
         function sendResponse(response) {
             if (response === 'yes') {
-                alert("Congratulations! You've taken a step forward in our relationship. I'm excited for what the future holds for us.");
+                alert("Yaaaaay, i'm so happy rn.");
             } else {
-                alert("It's okay, I understand. Thank you for your honesty.");
+                alert("You de whine me shey?.");
             }
         }
     </script>
